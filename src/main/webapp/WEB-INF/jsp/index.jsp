@@ -41,7 +41,7 @@
 <div class="card">
     <h1>Hello</h1>
 	<h1>Hello from Siddhesh</h1>
-	<h1>Hello from Nikhil</h1>
+
 	
 	
 	
